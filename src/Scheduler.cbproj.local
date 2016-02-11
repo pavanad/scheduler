@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/05/13 08:12:27.683.cpp,C:\Users\Adilson\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TScheduler.cpp</Transaction>
+    <Transaction>2011/05/13 08:12:27.683.h,C:\Users\Adilson\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TScheduler.h</Transaction>
+    <Transaction>2011/05/13 08:12:27.683.dfm,C:\Users\Adilson\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TScheduler.dfm</Transaction>
+    <Transaction>2011/05/13 08:12:43.219.cbproj,C:\Users\Adilson\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Scheduler.cbproj</Transaction>
+    <Transaction>2011/05/20 20:37:46.379.cpp,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.cpp=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TProcessThread.cpp</Transaction>
+    <Transaction>2011/05/20 20:37:46.379.h,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.h=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TProcessThread.h</Transaction>
+    <Transaction>2011/05/20 20:51:12.303.cpp,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TProcessThread.cpp=</Transaction>
+    <Transaction>2011/05/20 21:27:59.222.cpp,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.cpp=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TProcessThread.cpp</Transaction>
+    <Transaction>2011/05/20 21:27:59.223.h,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.h=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TProcessThread.h</Transaction>
+    <Transaction>2011/05/21 12:01:02.311.cpp,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.cpp=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TSchedulerProcess.cpp</Transaction>
+    <Transaction>2011/05/21 12:01:02.311.h,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.h=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TSchedulerProcess.h</Transaction>
+    <Transaction>2011/05/28 13:17:39.895.cpp,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.cpp=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TAbout.cpp</Transaction>
+    <Transaction>2011/05/28 13:17:39.895.h,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.h=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TAbout.h</Transaction>
+    <Transaction>2011/05/28 13:17:39.895.dfm,C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\Unit1.dfm=C:\Users\Adilson\Documents\Adilson\Projetos\C++\Escalonador\TAbout.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

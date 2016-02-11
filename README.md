@@ -1,5 +1,5 @@
-Escalonador - Fila Circular com Prioridades Estáticas
-=====================================================
+Escalonador - Fila Circular com Prioridades
+===========================================
 
 Simulação de escalonamento usando fila circular com prioridades estáticas.
 
